@@ -50,3 +50,21 @@ flutter pub get
 flutter run       # a device with 120Hz does it justice
 flutter test      # almanac, navigation, and calendar arithmetic
 ```
+
+## Preview
+<div align="center">
+  <img src="./assets/1.png" alt="Description" width="250" >
+  <img src="./assets/2.png" alt="Description" width="250">
+  <img src="./assets/3.png" alt="Description" width="250" >
+</div>
+<br/>
+<div align="center">
+  <img src="./assets/4.png" alt="Description" width="250" >
+  <img src="./assets/5.png" alt="Description" width="250" >
+  <img src="./assets/6.png" alt="Description" width="250" >
+</div>
+<br/>
+<div align="center">
+  <img src="./assets/7.png" alt="Description" width="250" >
+  <img src="./assets/8.png" alt="Description" width="250" >
+</div>
